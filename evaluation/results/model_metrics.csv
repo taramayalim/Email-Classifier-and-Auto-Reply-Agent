@@ -1,0 +1,6 @@
+Metric,Score
+Exact-match accuracy,0.5629453681710214
+Micro precision,0.7236533957845434
+Micro recall,0.894356005788712
+Micro F1,0.8
+Macro F1,0.7916855391001766
